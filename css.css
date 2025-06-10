@@ -1,0 +1,33 @@
+/* CSS documnet*/
+p {
+	color: #6f5cdb;
+	font-family: "ADLaM Display";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color:#c4cbee;
+	padding: 15px;
+}
+
+.paragraf_2{color:#1d68c2; background-color: rgba(155,205,255, 0.5)}
+
+h1,h2{
+	font-family: "ADLaM Display";
+	color: #1fb6bd;
+	
+}
+body{
+	background-image: url("slike/macke background.jpg");
+		opacity:50;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+	
+}
+a:hover{
+	background-color: #fdcaff;
+}
